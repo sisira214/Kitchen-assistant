@@ -1,0 +1,50 @@
+ingredient_name,quantity,unit,expiry_date,category,storage_location,allergens,diet_tags,last_updated,source
+Milk,2,liters,2026-01-20,Dairy,Fridge,lactose,vegetarian,2026-01-10,bought
+Eggs,12,units,2026-01-25,Protein,Fridge,egg,vegetarian,keto,2026-01-10,bought
+Chicken Breast,1.5,kg,2026-01-18,Protein,Fridge,none,high-protein,keto,2026-01-10,bought
+Cooked Rice,800,grams,2026-01-14,Grains,Fridge,none,vegan,2026-01-12,leftover
+Spinach,300,grams,2026-01-15,Vegetable,Fridge,none,vegan,low-carb,2026-01-12,bought
+Tomatoes,500,grams,2026-01-19,Vegetable,Fridge,none,vegan,2026-01-10,bought
+Cheddar Cheese,250,grams,2026-01-22,Dairy,Fridge,lactose,vegetarian,keto,2026-01-10,bought
+Yogurt,1,kg,2026-01-17,Dairy,Fridge,lactose,vegetarian,2026-01-11,bought
+Apples,6,units,2026-01-30,Fruit,Fridge,none,vegan,diabetic-friendly,2026-01-10,bought
+Bell Peppers,4,units,2026-01-21,Vegetable,Fridge,none,vegan,2026-01-10,bought
+Frozen Peas,1,kg,2026-04-10,Vegetable,Freezer,none,vegan,2026-01-05,bought
+Butter,500,grams,2026-02-15,Dairy,Fridge,lactose,vegetarian,keto,2026-01-08,bought
+Bread,1,loaf,2026-01-16,Grains,Pantry,gluten,vegetarian,2026-01-12,bought
+Olive Oil,750,ml,2026-08-01,Fat,Pantry,none,vegan,keto,2025-12-15,bought
+Onions,1,kg,2026-02-05,Vegetable,Pantry,none,vegan,2026-01-10,bought
+Garlic,200,grams,2026-02-20,Vegetable,Pantry,none,vegan,2026-01-10,bought
+Tofu,400,grams,2026-01-19,Protein,Fridge,soy,vegan,2026-01-11,bought
+Salmon Fillet,600,grams,2026-01-16,Protein,Fridge,fish,pescatarian,keto,2026-01-12,bought
+Soy Sauce,300,ml,2026-06-01,Condiment,Pantry,soy,vegan,low-sodium,2025-12-20,bought
+Lentils (Cooked),700,grams,2026-01-15,Protein,Fridge,none,vegan,diabetic-friendly,2026-01-12,leftover
+Greek Yogurt,800,grams,2026-01-18,Dairy,Fridge,lactose,vegetarian,high-protein,2026-01-12,bought
+Cottage Cheese,500,grams,2026-01-20,Dairy,Fridge,lactose,vegetarian,high-protein,2026-01-11,bought
+Almond Milk,2,liters,2026-02-05,Dairy Alternative,Fridge,nuts,vegan,low-carb,2026-01-09,bought
+Oats,1.5,kg,2026-06-30,Grains,Pantry,gluten,vegetarian,heart-healthy,2025-12-10,bought
+Brown Rice,2,kg,2026-07-01,Grains,Pantry,none,vegan,diabetic-friendly,2025-12-15,bought
+Quinoa,1,kg,2026-06-15,Grains,Pantry,none,vegan,high-protein,2025-12-20,bought
+Carrots,1,kg,2026-01-22,Vegetable,Fridge,none,vegan,2026-01-11,bought
+Zucchini,700,grams,2026-01-17,Vegetable,Fridge,none,vegan,low-carb,2026-01-12,bought
+Mushrooms,400,grams,2026-01-16,Vegetable,Fridge,none,vegan,2026-01-12,bought
+Avocados,3,units,2026-01-19,Fruit,Fridge,none,vegan,keto,2026-01-11,bought
+Bananas,6,units,2026-01-16,Fruit,Pantry,none,vegan,2026-01-12,bought
+Strawberries,500,grams,2026-01-15,Fruit,Fridge,none,vegan,2026-01-12,bought
+Blueberries,300,grams,2026-01-17,Fruit,Fridge,none,vegan,antioxidant-rich,2026-01-11,bought
+Ground Beef,1,kg,2026-01-18,Protein,Fridge,none,high-protein,keto,2026-01-11,bought
+Turkey Breast,900,grams,2026-01-19,Protein,Fridge,none,high-protein,2026-01-11,bought
+Shrimp,700,grams,2026-01-16,Protein,Freezer,shellfish,pescatarian,keto,2026-01-05,bought
+Canned Chickpeas,4,cans,2026-10-01,Protein,Pantry,none,vegan,2025-11-30,bought
+Canned Black Beans,3,cans,2026-09-15,Protein,Pantry,none,vegan,2025-11-25,bought
+Peanut Butter,500,grams,2026-05-01,Spread,Pantry,peanuts,vegetarian,high-fat,2025-12-05,bought
+Almonds,400,grams,N/A,Nuts,Pantry,nuts,vegan,keto,2025-12-01,bought
+Cashews,350,grams,N/A,Nuts,Pantry,nuts,vegan,2025-12-01,bought
+Chia Seeds,250,grams,2026-08-01,Seeds,Pantry,none,vegan,keto,2025-12-10,bought
+Flax Seeds,300,grams,2026-07-15,Seeds,Pantry,none,vegan,heart-healthy,2025-12-10,bought
+Honey,500,ml,2027-01-01,Sweetener,Pantry,none,vegetarian,2025-11-20,bought
+Maple Syrup,250,ml,2027-02-01,Sweetener,Pantry,none,vegan,2025-11-25,bought
+Pasta (Whole Wheat),1.2,kg,2026-06-01,Grains,Pantry,gluten,vegetarian,2025-12-15,bought
+Tomato Sauce,2,jars,2026-05-20,Condiment,Pantry,none,vegan,2025-12-01,bought
+Coconut Milk,3,cans,2026-07-10,Dairy Alternative,Pantry,none,vegan,keto,2025-12-05,bought
+Green Curry Paste,200,grams,2026-08-01,Condiment,Pantry,none,vegan,2025-12-05,bought
